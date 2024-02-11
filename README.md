@@ -41,8 +41,8 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
 [5-1. 결정 트리](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/11) | | | [윤서환](4장/3조/4주차_4장_다양한_분류_알고리즘_윤서환.md) / [박현우](5장/3조/5장_다양한_분류_알고리즘_박현우.md) / [송명섭](5장/3조/4주차_5장_다양한_분류_알고리즘_송명섭.md)
-[5-2. 교차 검증과 그리드 서치](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/12)
-[5-3. 트리의 앙상블](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/13)
+[5-2. 교차 검증과 그리드 서치](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/12) | | | [송명섭](5장_트리_알고리즘_송명섭.md) 
+[5-3. 트리의 앙상블](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/13)  | | | [송명섭](5장_트리_알고리즘_송명섭.md) 
 
 ### 6장. 비지도 학습
 | 세부 목차 | 1조 | 2조 | 3조
