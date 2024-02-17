@@ -54,9 +54,9 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 ### 7장. 딥러닝을 시작합니다
 | 세부 목차 | 2조 | 3조
 :---: | :---: | :---:
-[7-1. 인공 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/17)
-[7-2. 심층 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/18)
-[7-3. 신경망 모델 훈련](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/19)
+[7-1. 인공 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/17) | | [윤서환](7장/3조/6주차_7장_딥러닝을_시작합니다_윤서환.md)
+[7-2. 심층 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/18) | | [윤서환](7장/3조/6주차_7장_딥러닝을_시작합니다_윤서환.md)
+[7-3. 신경망 모델 훈련](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/19) | | [윤서환](7장/3조/6주차_7장_딥러닝을_시작합니다_윤서환.md)
 
 ### 8장. 이미지를 위한 인공 신경망
 | 세부 목차 | 2조 | 3조
