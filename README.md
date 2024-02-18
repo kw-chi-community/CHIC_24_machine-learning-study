@@ -47,9 +47,9 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 ### 6장. 비지도 학습
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
-[6-1. 군집 알고리즘](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/14) | | [송명섭](6장/3조/6장_비지도_학습_송명섭.md) / [박현우](6장/3조/6장_비지도_학습_박현우.md)
-[6-2. k-평균](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/15) | | [송명섭](6장/3조/6장_비지도_학습_송명섭.md) / [박현우](6장/3조/6장_비지도_학습_박현우.md)
-[6-3. 주성분 분석](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/16) | | [송명섭](6장/3조/6장_비지도_학습_송명섭.md) / [박현우](6장/3조/6장_비지도_학습_박현우.md)
+[6-1. 군집 알고리즘](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/14) | | | [송명섭](6장/3조/6장_비지도_학습_송명섭.md) / [박현우](6장/3조/6장_비지도_학습_박현우.md)
+[6-2. k-평균](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/15) | | | [송명섭](6장/3조/6장_비지도_학습_송명섭.md) / [박현우](6장/3조/6장_비지도_학습_박현우.md)
+[6-3. 주성분 분석](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/16) | | | [송명섭](6장/3조/6장_비지도_학습_송명섭.md) / [박현우](6장/3조/6장_비지도_학습_박현우.md)
 
 ### 7장. 딥러닝을 시작합니다
 | 세부 목차 | 2조 | 3조
