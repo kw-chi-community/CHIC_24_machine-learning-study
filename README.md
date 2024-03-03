@@ -70,3 +70,8 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 [9-1. 순차 데이터와 순환 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/23)
 [9-2. 순환 신경망으로 IMDB 리뷰 분류하기](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/24)
 [9-3. LSTM과 GRU 셀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/25)
+
+### 3조 Project
+| 세부 목차 | 3조 |
+:---: | :---: |
+[Titanic Project]([https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/23](https://www.kaggle.com/competitions/titanic)https://www.kaggle.com/competitions/titanic) | [민희원](7장/3조/7장_딥러닝을_시작합니다_민희원.md) / [박현우](7장/3조/7장_딥러닝을_시작합니다_박현우.md) / [송명섭](7장/3조/6주차_7장_딥러닝을_시작합니다_송명섭.md) / [정유빈](7장/3조/7장_딥러닝을_시작합니다_정유빈.md)
