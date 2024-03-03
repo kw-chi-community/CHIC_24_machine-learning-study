@@ -74,4 +74,4 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 ### 3조 Project
 | 세부 목차 | 3조 |
 :---: | :---: |
-[Titanic Project]([https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/23](https://www.kaggle.com/competitions/titanic)https://www.kaggle.com/competitions/titanic) | [민희원](ML_Project/3조/CHIC_ML_project_민희원.ipynb) / [박현우](ML_Project/3조/CHIC_ML_project_박현우.ipynb) / [송명섭](ML_Project/3조/CHIC_ML_project_송명섭.ipynb) / [정유빈](ML_Project/3조/CHIC_ML_project_정유빈.ipynb)
+[Titanic Project](https://www.kaggle.com/competitions/titanic) | [민희원](ML_Project/3조/CHIC_ML_project_민희원.ipynb) / [박현우](ML_Project/3조/CHIC_ML_project_박현우.ipynb) / [송명섭](ML_Project/3조/CHIC_ML_project_송명섭.ipynb) / [정유빈](ML_Project/3조/CHIC_ML_project_정유빈.ipynb)
